@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const client2 = new Discord.Client2();
-const client3 = new Discord.Client3();
-const client4 = new Discord.Client4();
-const client5 = new Discord.Client5();
+const client2 = new Discord.Client();
+const client3 = new Discord.Client();
+const client4 = new Discord.Client();
+const client5 = new Discord.Client();
 
 client.on('ready', async() => {
 var server = "514471662872428545"; // ايدي السررفر
