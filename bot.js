@@ -17,6 +17,7 @@ var channel = "523570202206666833";//ايدي الروم
     client.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client2.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -24,6 +25,7 @@ var channel = "523570202206666833";//ايدي الروم
     client2.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client3.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -31,6 +33,7 @@ var channel = "523570202206666833";//ايدي الروم
     client3.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client4.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -38,6 +41,7 @@ var channel = "523570202206666833";//ايدي الروم
     client4.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client5.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -45,6 +49,7 @@ var channel = "523570202206666833";//ايدي الروم
     client5.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client6.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -52,6 +57,7 @@ var channel = "523570202206666833";//ايدي الروم
     client6.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client7.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -59,6 +65,7 @@ var channel = "523570202206666833";//ايدي الروم
     client7.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client8.on('ready', async() => {
 var server = "514471662872428545"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -66,6 +73,7 @@ var channel = "523570202206666833";//ايدي الروم
     client8.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client9.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -73,6 +81,7 @@ var channel = "523570202206666833";//ايدي الروم
     client9.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client10.on('ready', async() => {
 var server = "523570202206666827"; // ايدي السررفر
 var channel = "523570202206666833";//ايدي الروم
@@ -80,6 +89,7 @@ var channel = "523570202206666833";//ايدي الروم
     client10.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
+
 client.login(process.env.BOT_TOKEN);
 client2.login(process.env.BOT_TOKEN2);
 client3.login(process.env.BOT_TOKEN3);
