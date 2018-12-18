@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-heroku",
+  "name": "BaselSpam",
   "version": "1.0.0",
-  "description": "Discord.js bot on Heroku",
+  "description": "Basel Bots",
   "main": "bot.js",
   "dependencies": {
     "node": "8.x",
